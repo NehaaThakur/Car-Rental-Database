@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/NEHA/Desktop/MPS/ITC 6000/Enterprise/Thakur_FinalProject_Enterprise.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser query pragmas" current="2"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="7624"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,14:mainADDON_CATEGORY"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="ADDON_CATEGORY" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="132"/><column index="2" value="63"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="ADDON_DETAIL" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="109"/><column index="2" value="198"/><column index="3" value="132"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="BILLING" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="58"/><column index="2" value="109"/><column index="3" value="45"/><column index="4" value="70"/><column index="5" value="129"/><column index="6" value="67"/><column index="7" value="126"/><column index="8" value="96"/><column index="9" value="76"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="CAR" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="83"/><column index="2" value="140"/><column index="3" value="82"/><column index="4" value="85"/><column index="5" value="89"/><column index="6" value="115"/><column index="7" value="112"/><column index="8" value="112"/><column index="9" value="102"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="CAR_CATEGORY" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="112"/><column index="2" value="111"/><column index="3" value="140"/><column index="5" value="127"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="CUSTOMER" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="84"/><column index="2" value="58"/><column index="3" value="112"/><column index="4" value="44"/><column index="5" value="58"/><column index="6" value="40"/><column index="7" value="62"/><column index="8" value="139"/><column index="9" value="142"/><column index="10" value="73"/><column index="11" value="84"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="LOCATION" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="77"/><column index="2" value="148"/><column index="3" value="91"/><column index="4" value="44"/><column index="5" value="58"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="MEMBERSHIP_LEVEL" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="56"/><column index="2" value="85"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="MEMBER_ACCOUNT" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="84"/><column index="2" value="85"/><column index="3" value="71"/><column index="4" value="106"/><column index="5" value="56"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="PROMOTION" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="88"/><column index="2" value="121"/><column index="3" value="86"/><column index="4" value="147"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RESERVATION" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="2" mode="0"/></sort><column_widths><column index="1" value="118"/><column index="2" value="114"/><column index="3" value="86"/><column index="4" value="96"/><column index="5" value="94"/><column index="6" value="116"/><column index="7" value="118"/><column index="8" value="82"/><column index="9" value="83"/><column index="10" value="84"/><column index="11" value="112"/><column index="12" value="83"/><column index="13" value="93"/><column index="14" value="83"/><column index="15" value="58"/><column index="16" value="81"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="RESERVATION_ADDON" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="151"/><column index="2" value="101"/><column index="3" value="126"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="sqlite_sequence" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="43"/><column index="2" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Final_Populate_Tables.sql">--Final Project--Enterprise Rent a car--
+--Popoulating Tables--
+
+INSERT INTO MEMBERSHIP_LEVEL(Level_Name) VALUES('Platinum'),('Gold'),('Silver');
+
+INSERT INTO MEMBER_ACCOUNT(Username , Password,Reward_Points,LevelID)
+ VALUES ('act','#--12',40,3),
+('walter','&amp;&amp;&amp;',110,2),
+('oliver','***',50,3),
+('Julia','&amp;*&amp;',140,2),
+('Angela', '\\\',300,1),
+('Pam', '###', 50,1),
+('nehathakur88',' :#---',500,1),
+('Jim', '&amp;&amp;',160,2),
+('Michael', '#$',130,2),
+('Raj', '%%%', 310,3);
+
+
+INSERT INTO CUSTOMER(Name, Street_Address,City, State, Pincode, Email_ID, Driving_LicenseNo, License_Expiry_Date, Mobile_No, Member_No)
+VALUES ('Rob Wally', '190 Hunting Ave', 'Salem',' MA','01970','robwal@gmail.com','AB156866','04/04/2025', 4696004267,1),
+       ('Walter White', '18 Huff Ave', 'Medford', 'MA','02155', 'white@gmail.com', 'CCF134578','04/06/2028', 4667042671,2),
+       ('Oliver Bill','160 Mystic Avenue','Medford', 'MA', '02155','bill@gmail.com','UIU624531','05/09/2024', 6776004261,3),
+       ('Julia Wilson','80Transportation Way','Boston',' MA','02128', 'Jwilson@gmail.com','F1234554','14/08/2021', 5596004244,4),
+       ('Angela Walt', '209 Federal Circle','Jamaica','NY','11430','walt@gmail.com','F9764521','24/09/2025',7816884267,5),
+       ('Pam Scott','684 E Palm Canyon Dr','Cathedral City',' CA','92234','Scott@gmail.com','I3478953','24/08/2023', 7816114266,6),
+       ('Neha Thakur', '190 Mountain Ave',' Malden', 'MA', '02148','Thakur@gmail.com','F2345611','26/05/2025',4698174287,7),
+       ('Jim Bond',' 12 Foster St Ste 2','Plymouth', 'NH',' 03264', 'Bond@gmail.com','R8763578','17/03/2021', 4796104347,8),
+       ('Michael Dennison', '160 Marginal Way','Portland', 'ME',' 04101', 'MD@gmail.com','E7521097','12/02/2023',4889600426,9),
+       ('Raj Sharma','11 Sabin St','Providence',' RI',' 02903', 'Sharma@gmail.com','T0981237','15/07/2022',4996004278,10);
+
+INSERT INTO ADDON_CATEGORY(Name) VALUES('Insurance'),('TopUp');
+
+INSERT INTO ADDON_DETAIL(Name,Addon_CategoryID)
+ VALUES ('Greenhouse Gas Emissions Offset',2),
+('GPS',2),
+('Radio',2),
+('Collision',1),
+('Liability',1);
+
+ INSERT INTO PROMOTION(Promotion_Codes,Expiry_Date,Percentage_Discount)
+ VALUES('NewYear','01-02-2022',15),('LOVE5','02-14-2021',5),('SUMMER10','06-15-2021',10),
+ ('Fall','09-20-2021',7),('Holiday','10-15-2021',5),('Thanks','10-30-2021',7),('CyberMon','11-26-2021',10),
+ ('BLACKFRIDAY','11-26-2021',20),('VT2021','11-11-2021',10),('Christmas','12-31-2021',10);
+ 
+INSERT INTO BILLING(Rental_Amount,Taxes,Coverage,Rewards_Discount,Late_Fee,Total_Amount,Bill_Date,Bill_Status)
+ VALUES(240.0,15.0,	52.0,0.0,0.0,307.0,'10-12-2021','Paid'),
+(69.0,	4.3,	39.0,	0.0,	5.0, 117.3,	'10-15-2021','Paid'),
+(115.0,7.2,	65.0,	15.0,	0.0,	202.2,	'11-01-2021',	'Paid'),
+(120.0,7.5,	26.0,	10.0,	10.0,	173.5,	'11-12-2021',	'Paid'),
+(23.0,1.4,13.0,0.0,	0.0,37.4,'11-15-2021','Paid'),
+(141.4,9.8,91.0,23.6,0.0,265.8,'11-22-2021','Paid'),
+(158.0,9.9,26.0,0.0,0.0,193.9,'11-25-2021','Paid'),
+(138.0,8.6,78.0,0.0,0.0,224.6,'12-01-2021','Paid'),
+(79,4.9,13.0,0.0,0.0,96.9,'12-03-2021','Pending'),
+(115.0,7.2,65.0,0.0,0.0,187.2,'12-06-2021','Pending'
+);
+
+INSERT INTO LOCATION(Street_Address,City,State,Pincode)
+ VALUES ('63 Jefferson Ave' , 'Salem', 'MA' ,01970),
+('221 Mystic Avenue' ,'Medford', 'MA', 02155),
+('15 Transportation Way','Boston',' MA', 02128),
+('69 Federal Circle','Jamaica','NY',11430),
+('68384 E Palm Canyon Dr',' Cathedral City','CA', 92234),
+('780 North Mcdonnell Rd','San Francisco', 'CA', 94128),
+('99 Commercial St', 'Malden','MA',02148),
+('1a Foster St Ste 2', 'Plymouth', 'NH', 03264),
+('1 Marginal Way' , 'Portland', 'ME', 04101),
+('1 Sabin St', 'Providence', 'RI', 02903);
+
+INSERT INTO CAR_CATEGORY(Category_Name,Passenger_Capacity,Cost_Per_Day,Latefee_Per_Hour)
+ VALUES ('Economy',4,55,5),
+('Compact',5,58,5),
+('Midsize',5,61,5),
+('Standard',5,65,5),
+('FullSize',5,65,5),
+('Premium',5,79,10),
+('Luxury',5,85,10),
+('Compact SUV',5,90,10),
+('Midsize SUV',5,95,10),
+('Full size SUV ',7,105,15);
+
+INSERT INTO CAR(Car_Registration_ID,Model,Make,Model_Year,Current_Mileage,Availability_Flag ,Car_CategoryID,Current_LocID)
+ VALUES ('ABX1234','CIVIC','HONDA', 2014,10000,'A','1','1'),
+        ('SDF4567','FIESTA','FORD', 2015,15000,'NA','1','9'),
+		('WER3245','ACCENT','HYUNDAI', 2014,12356,'A','1','7'),
+        ('GLZ2376','COROLLA','TOYOTA', 2016,5000,'A','1','4'),
+		('HJK1234','CIVIC','HONDA', 2015,20145,'N','1','5'),
+	    ('GLS7625','FOCUS','FORD', 2014,12000,'A','2','2'),
+		('FKD8202','GOLF','VOLKSWAGAN', 2016,9000,'A','2','7'), 
+		('OTY7293','CRUZE','CHEVROLET', 2016,17800,'A','3','3'), 
+		('QWE4562','LEGACY','SUBARU', 2012,13420,'A','3','8'),
+	    ('MNB8654','FALCON','FORD', 2012,10900,'A','5','9'), 
+		('UHV9786','IMPALA','CHEVROLET', 2013,11500,'A','5','10'),
+		('EFB5427','WAYFARER','FORD', 2014,14350,'A','5','2'); 
+
+ INSERT INTO RESERVATION(Pickup_Date,Pickup_Time,Dropoff_Date,Dropoff_Time,Booking_Amount,Status_Indicator,
+ Miles_Start,Miles_Finish, CustomerID,Car_CategoryID,Car_TypeID,Pickup_LocID,Drop_LocID,BillingID,PromotionID)
+ VALUES
+ ('10-12-21','10:00','10-08-21', '10:00',240,'Booked',10000,10600,1,1,1,1,2,1,1),
+ ('10-15-21','09:00','10-12-21','10:00',69, 'Booked',15000,15700, 2,1,1,2,2,2,2),
+ ('10-15-21','16:00','10-12-21','17:00',115,'Booked',12356,12900, 3,1,1,3,2,3,3),
+ ('10-15-21','10:00','10-12-21','09:00',120,'Booked',5000,6000,   4,1,2,4,4,4,1),
+ ('11-01-21','08:00','10-27-21','11:00',60,'Booked',20145,20900,  5,1,3,5,3,5,2),
+ ('11-01-21','07:00','10-27-21','08:00',141,'Booked',12000,12700, 6,1,2,6,6,6,4),
+ ('11-01-21','6:00','10-27-21','09:00',158,'Booked',9000,9500,    7,5,2,7,7,7,1),
+ ('11-23-21','10:00','11-28-21', '10:00',138,'Booked',10500,11000,1,5,2,7,7,8,NULL);
+ 
+INSERT INTO RESERVATION_ADDON(ReservationID,Addon_DetailID)
+ VALUES (1,4),(2,2),(3,4),(4,1),(5,5), (6,3),(7,4);
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </sql><sql name="Final_Create_Tables.sql">--Final Project - Enterprise Car Rental--
+-- Create Table--
+
+CREATE TABLE &quot;MEMBERSHIP_LEVEL&quot; (
+	&quot;LevelID&quot;	INTEGER NOT NULL UNIQUE,
+	&quot;Level_Name&quot;	TEXT NOT NULL,
+	PRIMARY KEY(&quot;LevelID&quot; AUTOINCREMENT)
+);
+
+CREATE TABLE &quot;MEMBER_ACCOUNT&quot; (
+	&quot;Member_No&quot;	INTEGER NOT NULL UNIQUE,
+	&quot;Username&quot;	TEXT NOT NULL,
+	&quot;Password&quot;	TEXT NOT NULL ,
+	&quot;Reward_Points&quot;	INTEGER,
+	&quot;LevelID&quot;	INTEGER NOT NULL,
+	PRIMARY KEY(&quot;Member_No&quot; AUTOINCREMENT),
+	CONSTRAINT &quot;FK_LevelID&quot; FOREIGN KEY(&quot;LevelID&quot;) REFERENCES MEMBERSHIP_LEVEL(LevelID)
+	);
+
+CREATE TABLE &quot;CUSTOMER&quot; (
+	&quot;CustomerID&quot;	INTEGER NOT NULL UNIQUE,
+	&quot;Name&quot;	TEXT NOT NULL,
+	&quot;Street_Address&quot;	TEXT,
+	&quot;City&quot;	TEXT,
+	&quot;State&quot;	TEXT,
+	&quot;Pincode&quot;	TEXT,
+	&quot;Email_ID&quot;	TEXT,
+	&quot;Driving_LicenseNo&quot;	TEXT,
+	&quot;License_Expiry_Date&quot;	TEXT,
+	&quot;Mobile_No&quot;	INTEGER,
+	&quot;Member_No&quot;	INTEGER,
+	PRIMARY KEY(&quot;CustomerID&quot; AUTOINCREMENT),
+	CONSTRAINT &quot;FK_MEMBER_No&quot; FOREIGN KEY(&quot;Member_No&quot;) REFERENCES MEMBER_ACCOUNT(Member_No)
+);
+
+CREATE TABLE &quot;ADDON_CATEGORY&quot; (
+	&quot;Addon_CategoryID&quot;	INTEGER NOT NULL UNIQUE,
+	&quot;Name&quot;	TEXT,
+	PRIMARY KEY(&quot;Addon_CategoryID&quot; AUTOINCREMENT)
+);	
+
+CREATE TABLE &quot;ADDON_DETAIL&quot; (
+	&quot;Addon_DetailID&quot;	INTEGER NOT NULL UNIQUE,
+	&quot;Name&quot;	TEXT,
+	&quot;Addon_CategoryID&quot;	INTEGER NOT NULL,
+	PRIMARY KEY(&quot;Addon_DetailID&quot; AUTOINCREMENT),
+	CONSTRAINT &quot;FK_Addon_CategoryID&quot; FOREIGN KEY(&quot;Addon_CategoryID&quot;) REFERENCES ADDON_CATEGORY(Addon_CategoryID)
+	);
+
+CREATE TABLE &quot;LOCATION&quot; (
+	&quot;LocationID&quot;	INTEGER NOT NULL UNIQUE,
+	&quot;Street_Address&quot;	TEXT,	
+	&quot;City&quot;	TEXT,
+	&quot;State&quot;	TEXT,
+	&quot;Pincode&quot;	TEXT NOT NULL,
+	PRIMARY KEY(&quot;LocationID&quot; AUTOINCREMENT)
+);
+
+CREATE TABLE &quot;CAR_CATEGORY&quot; (
+	&quot;Car_CategoryID&quot;	INTEGER NOT NULL UNIQUE,
+	&quot;Category_Name&quot;	TEXT NOT NULL,
+	&quot;Passenger_Capacity&quot;	INTEGER NOT NULL,
+	&quot;Cost_Per_Day&quot;	INTEGER NOT NULL,
+	&quot;Latefee_Per_Hour&quot;	INTEGER NOT NULL,
+	PRIMARY KEY(&quot;Car_CategoryID&quot; AUTOINCREMENT)
+);
+	
+CREATE TABLE &quot;CAR&quot; (
+	&quot;Car_TypeID&quot;	INTEGER NOT NULL UNIQUE,
+	&quot;Car_Registration_ID&quot;	INTEGER NOT NULL,
+	&quot;Model&quot;	TEXT NOT NULL,
+	&quot;Make&quot;	TEXT NOT NULL,
+	&quot;Model_Year&quot;	INTEGER NOT NULL,
+	&quot;Current_Mileage&quot;	INTEGER NOT NULL,
+	&quot;Availability_Flag&quot;	INTEGER NOT NULL,
+	&quot;Car_CategoryID&quot;	INTEGER NOT NULL,
+	&quot;Current_LocID&quot;	INTEGER NOT NULL,
+	PRIMARY KEY(&quot;Car_TypeID&quot; AUTOINCREMENT),
+CONSTRAINT FK_Car_CategoryID FOREIGN KEY(&quot;Car_CategoryID&quot;) REFERENCES CAR_CATEGORY(Car_CategoryID),
+CONSTRAINT FK_Current_LocID FOREIGN KEY(&quot;Current_LocID&quot;) REFERENCES LOCATION(LocationID)
+);	
+
+CREATE TABLE &quot;BILLING&quot; (
+	&quot;BillingID&quot;	INTEGER NOT NULL UNIQUE,
+	&quot;Rental_Amount&quot;	INTEGER,
+	&quot;Taxes&quot;	INTEGER,
+	&quot;Coverage&quot;	INTEGER,
+	&quot;Rewards_Discount&quot; INTEGER,
+	&quot;Late_Fee&quot;	INTEGER,
+	&quot;Total_Amount&quot;	INTEGER,
+	&quot;Bill_Date&quot;	TEXT,
+	&quot;Bill_Status&quot;	TEXT,
+	PRIMARY KEY(&quot;BillingID&quot; AUTOINCREMENT)
+);	
+
+CREATE TABLE &quot;PROMOTION&quot; (
+	&quot;PromotionID&quot;	INTEGER NOT NULL UNIQUE,
+	&quot;Promotion_Codes&quot;	TEXT,
+	&quot;Expiry_Date&quot;	INTEGER,
+	&quot;Percentage_Discount&quot;	INTEGER,
+	PRIMARY KEY(&quot;PromotionID&quot; AUTOINCREMENT)
+);
+
+CREATE TABLE &quot;RESERVATION&quot; (
+	&quot;ReservationID&quot;	INTEGER NOT NULL UNIQUE,
+	&quot;Pickup_Date&quot;	TEXT NOT NULL,
+	&quot;Pickup_Time&quot;	TEXT NOT NULL,
+	&quot;Dropoff_Date&quot;	TEXT NOT NULL,
+	&quot;Dropoff_Time&quot;	TEXT NOT NULL,
+	&quot;Booking_Amount&quot;	INTEGER NOT NULL,
+	&quot;Status_Indicator&quot;	TEXT NOT NULL,
+	&quot;Miles_Start&quot;	INTEGER NOT NULL,
+	&quot;Miles_Finish&quot;	INTEGER NOT NULL,
+	&quot;CustomerID&quot;	INTEGER NOT NULL,
+	&quot;Car_CategoryID&quot;	INTEGER NOT NULL,
+	&quot;Car_TypeID&quot;	INTEGER NOT NULL,
+	&quot;Pickup_LocID&quot;	INTEGER NOT NULL,
+	&quot;Drop_LocID&quot;	INTEGER NOT NULL,
+	&quot;BillingID&quot;	INTEGER NOT NULL,
+	&quot;PromotionID&quot;	INTEGER,
+	PRIMARY KEY(&quot;ReservationID&quot; AUTOINCREMENT),
+CONSTRAINT FK_CustomerID FOREIGN KEY(&quot;CustomerID&quot;) REFERENCES CUSTOMER(CustomerID),
+ CONSTRAINT FK_Car_CategoryID FOREIGN KEY(&quot;Car_CategoryID&quot;) REFERENCES CAR_CATEGORY(Car_CategoryID),
+ CONSTRAINT FK_Car_TypeID FOREIGN KEY(&quot;Car_TypeID&quot;) REFERENCES CAR(Car_TypeID),
+ CONSTRAINT FK_PickUpLocID FOREIGN KEY(&quot;Pickup_LocID&quot;) REFERENCES LOCATION(LocationID),
+ CONSTRAINT FK_DropLocID FOREIGN KEY(&quot;Drop_LocID&quot;) REFERENCES LOCATION(LocationID),
+ CONSTRAINT FK_BillingID FOREIGN KEY(&quot;BillingID&quot;) REFERENCES BILLING(BillingID),
+ CONSTRAINT FK_PromotionID FOREIGN KEY(&quot;PromotionID&quot;) REFERENCES PROMOTION(PromotionID)
+);
+	
+CREATE TABLE &quot;RESERVATION_ADDON&quot; (
+	&quot;Reservation_AddonID&quot;	INTEGER NOT NULL UNIQUE,
+	&quot;ReservationID&quot;	INTEGER,
+	&quot;Addon_DetailID&quot;	INTEGER,
+	PRIMARY KEY(&quot;Reservation_AddonID&quot; AUTOINCREMENT),
+CONSTRAINT FK_ReservationID FOREIGN KEY(&quot;ReservationID&quot;) REFERENCES RESERVATION(ReservationID),
+CONSTRAINT FK_Addon_DetailID FOREIGN KEY(&quot;Addon_DetailID&quot;) REFERENCES ADDON_DETAIL(Addon_DetailID)
+);
+
+
+</sql><sql name="Select_Statements.sql">--View all customers who booked car from one location and dropped at another --
+
+SELECT C.CustomerID , C.name , C.Driving_LicenseNo,
+R.Pickup_LocID,L1.City As Pickup_Loc,
+R.Drop_LocID ,L2.City As Drop_Loc
+FROM CUSTOMER As C 
+INNER JOIN RESERVATION AS R ON C.CustomerID= R.CustomerID
+INNER JOIN LOCATION As L1 ON L1.LocationID = R.Pickup_LocID
+INNER JOIN LOCATION As L2 ON L2.LocationID=R.Drop_LocID
+WHERE R.Pickup_LocID != R.Drop_LocID ;
+
+
+-- Show all Ford cars with their model, Category_Name, location and availability tag --
+
+SELECT C.Car_Registration_ID , C.Model ,C.Make,Cat.Category_Name,L.City,C.Availability_Flag 
+FROM CAR As C 
+INNER JOIN CAR_CATEGORY AS Cat ON Cat.Car_CategoryID= C.Car_CategoryID
+INNER JOIN LOCATION As L ON L.LocationID = C.Current_LocID
+WHERE C.Make= &quot;FORD&quot;
+;
+
+--Show details of cars booked by Platinum customers 
+
+SELECT Cust.name, M.Level_Name,C.Model , C.Make , count(*) as Times_Booked
+FROM MEMBERSHIP_LEVEL AS M
+INNER JOIN MEMBER_ACCOUNT AS MemberAcc ON M.LevelID = MemberAcc.LevelID
+INNER JOIN CUSTOMER AS Cust ON Cust.Member_No = MemberAcc.Member_No
+INNER JOIN RESERVATION AS R ON R.CustomerID = Cust.CustomerID
+INNER JOIN CAR AS C ON C.Car_TypeID= R.Car_TypeID
+WHERE M.Level_Name= &quot;Platinum&quot;
+GROUP By Cust.name, M.Level_Name,C.Model , C.Make 
+;
+
+--  Count Customers who did not opt for liability 
+SELECT count(DISTINCT C.CustomerID) AS Total_Customers
+FROM ADDON_DETAIL AS AD
+INNER JOIN RESERVATION_ADDON AS RevAdd ON RevAdd.Addon_DetailID = AD.Addon_DetailID
+INNER JOIN RESERVATION AS R ON R.ReservationID = RevAdd.ReservationID
+INNER JOIN CUSTOMER AS C ON C.CustomerID = R.CustomerID
+WHERE RevAdd.Reservation_AddonID 
+NOT IN (SELECT DISTINCT RA.Reservation_AddonID FROM RESERVATION_ADDON AS RA 
+WHERE RA.Addon_DetailID = 5 );
+
+--Calculate total miles calculated by the customer 
+
+SELECT Cust.name , ML.Level_Name, sum(Miles_Finish-Miles_Start) As Total_Miles
+FROM CUSTOMER AS Cust
+INNER JOIN MEMBER_ACCOUNT AS MemberAcc ON Cust.Member_No = MemberAcc.Member_No
+INNER JOIN MEMBERSHIP_LEVEL AS ML ON ML.LevelID = MemberAcc.LevelID
+INNER JOIN RESERVATION AS R ON R.CustomerID = Cust.CustomerID
+GROUP BY Cust.name , ML.Level_Name
+ ORDER BY 2,3,1 ;
+
+
+-- Most popular city for booking
+SELECT * FROM 
+(SELECT 'Pick Up' As Location_Type , ltrim(rtrim(L1.State)) AS State, count (*) As Total
+FROM RESERVATION AS R 
+INNER JOIN LOCATION AS L1 ON L1.LocationID = R.Pickup_LocID 
+GROUP BY  2
+UNION ALL
+SELECT 'Drop Off' As Location_Type , ltrim(rtrim(L2.State)) AS State, count (*) As Total
+FROM RESERVATION AS R 
+INNER JOIN LOCATION AS L2 ON L2.LocationID = R.Drop_LocID 
+GROUP BY  2)
+As Final 
+ORDER BY 1,3 DESC
+;
+
+
+
+
+
+
+
+
+
+
+</sql><current_tab id="2"/></tab_sql></sqlb_project>
